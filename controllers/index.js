@@ -9,6 +9,7 @@ const statements = [
     'Off to a great start, keep going!',
     'Half way there, keep it up!',
     'So close!',
+    'Great job!',
     'Way to go!',
     'Now you\'re just showing off!'
 ];
